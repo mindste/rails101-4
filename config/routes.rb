@@ -16,5 +16,5 @@ Rails.application.routes.draw do
    end
 
    root  'groups#index'
-
+  
 end
